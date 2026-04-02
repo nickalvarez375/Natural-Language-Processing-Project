@@ -1,0 +1,6 @@
+What I prompted:
+Using this code, where are the curly brackets in the incorrect position? Can you help me correct the brackets so they are in the right place for the code to function properly? (dont change any code or comments added previously)
+----------------------------------------------------------------------
+What response I recieved:
+I recieved the curly brackets in the correct lines since I lost track of them on my own
+----------------------------------------------------------------------
