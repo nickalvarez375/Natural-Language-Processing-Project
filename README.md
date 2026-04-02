@@ -20,7 +20,8 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get displayed on this README.
 
-![UML Diagram for my project](Copy of 
+<img width="988" height="777" alt="Copy of Unit 6 - UML Diagram" src="https://github.com/user-attachments/assets/348f40a1-53b1-46fa-8018-5f3b3a75130c" />
+
 ## Video
 
 Record a short video of your project to display here on your README. You can do this by:
@@ -31,12 +32,12 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[Screen recording 2026-04-01 6.01.57 PM.webm](https://github.com/user-attachments/assets/28482db6-accc-4e0d-9bab-7b33ac539183)
 
 ## Project Description
 
-Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text and how the user interacts with your project.
+This project is a Name detector. It uses user input of names to detect the first and last names in the sentence. The sentence that the user inputs is the item being analyzed by the program. The text file must be interpreted by the program before it can analyze and give results. 
 
 ## NLP Techniques
 
-Write a description of what natural language technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods work and how they are necessary in the NLP technique.
+The Text Processor is an example of an NLP in the code. The methods loadNames() and detectNames() are related to this specific NLP.
